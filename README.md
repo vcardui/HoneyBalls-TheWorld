@@ -9,10 +9,12 @@ Get started with Unity by creating scenes,  objects, materials, textures and bas
 ### Working project demo
 
 #### HoneyBalls Game demo
-<img width="800" alt="HoneyBalls Game demo" src="https://github.com/user-attachments/assets/1436aca0-f903-4f1d-8af7-8ae7fcd79db7" />
+https://github.com/user-attachments/assets/1436aca0-f903-4f1d-8af7-8ae7fcd79db7
 
 #### TheWorld Game demo
-<img width="800" alt="TheWorld Game demo" src="https://github.com/user-attachments/assets/32a91863-2187-44f3-9232-f52fd68af672" />
+https://github.com/user-attachments/assets/016f5eaf-7db3-49ee-b0b4-ddb7f4571df7
+
+
 
 ## 🙌 Project Personal Milestones
 

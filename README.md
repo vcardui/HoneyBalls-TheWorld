@@ -28,6 +28,8 @@ https://github.com/user-attachments/assets/016f5eaf-7db3-49ee-b0b4-ddb7f4571df7
 
 The games shown above were build during a three-day 'Introduction to Unity' workshop during the 2025 annual congress of my major.
 
+Many thanks to Luis Roberto Ramos, workshop’s instructor, for giving me the tools and being very patient with me while teaching. 
+
 ## 👀 About the project
 
 ### HoneyBalls
